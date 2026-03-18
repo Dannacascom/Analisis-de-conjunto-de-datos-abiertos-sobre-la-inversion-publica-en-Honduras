@@ -19,4 +19,4 @@ Datos obtenidos del sitio web de la Secretaría de Finanzas de Honduras, bajo li
 * Crecimiento de la inversión desde 2022
 
 **Licencia**  
-Análisis de conjunto de datos abiertos sobre la inversion pública en Honduras © 2026 by Danna Casco y Luis Henriquez is licensed under CC BY 4.0
+Análisis de conjunto de datos abiertos sobre la inversion pública en Honduras © 2026 by Danna Casco y Luis Henriquez is licensed under CC BY-SA 4.0
