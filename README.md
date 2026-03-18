@@ -6,7 +6,7 @@ Análisis de un dataset de inversión pública en Honduras para identificar su d
 ¿Cómo se distribuye la inversión pública en Honduras y cómo ha evolucionado a lo largo del tiempo?
 
 **Fuente de datos**  
-Datos obtenidos del sitio web de la Secretaría de Finanzas de Honduras, bajo licencia Creative Commons Atribución (CC BY).
+Datos obtenidos del sitio web de la Secretaría de Finanzas de Honduras, bajo licencia Creative Commons Atribución (CCBY SA 4.0).
 
 **Proceso**  
 * Limpieza de datos en Python (Colab)
